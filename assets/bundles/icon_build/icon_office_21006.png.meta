@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "f6da5f67-d5f0-43c2-a0f3-10a220a4623a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 138,
+  "height": 97,
+  "platformSettings": {},
+  "subMetas": {
+    "icon_office_21006": {
+      "ver": "1.0.6",
+      "uuid": "2f622cb7-c21c-4522-870e-46562eb3c4d4",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "f6da5f67-d5f0-43c2-a0f3-10a220a4623a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 136,
+      "height": 95,
+      "rawWidth": 138,
+      "rawHeight": 97,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

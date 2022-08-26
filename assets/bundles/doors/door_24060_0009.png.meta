@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "e5cf00f3-1e94-4ca2-8add-adbcd92e1d49",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 82,
+  "height": 94,
+  "platformSettings": {},
+  "subMetas": {
+    "door_24060_0009": {
+      "ver": "1.0.6",
+      "uuid": "ba0ee186-4cba-4e8a-84aa-29b147791dd7",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "e5cf00f3-1e94-4ca2-8add-adbcd92e1d49",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": -3,
+      "trimX": 3,
+      "trimY": 7,
+      "width": 78,
+      "height": 86,
+      "rawWidth": 82,
+      "rawHeight": 94,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

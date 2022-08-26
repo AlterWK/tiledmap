@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "2000acbf-76ea-4b11-9c19-fdd0182ee813",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 118,
+  "height": 134,
+  "platformSettings": {},
+  "subMetas": {
+    "icon_doctor_64021": {
+      "ver": "1.0.6",
+      "uuid": "2f61e7e4-ae72-4854-a4f8-209427e01e01",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "2000acbf-76ea-4b11-9c19-fdd0182ee813",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 116,
+      "height": 133,
+      "rawWidth": 118,
+      "rawHeight": 134,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "circle_2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2,
+  "sample": 20,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            165,
+            124
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.5,
+          "value": [
+            226.6,
+            156.1
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 1,
+          "value": [
+            285,
+            124.5
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 1.5,
+          "value": [
+            221.8,
+            93.8
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 2,
+          "value": [
+            165,
+            124
+          ],
+          "motionPath": []
+        }
+      ]
+    }
+  },
+  "events": []
+}

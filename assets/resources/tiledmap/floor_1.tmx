@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.0" orientation="isometric" renderorder="right-down" width="30" height="30" tilewidth="64" tileheight="32" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" source="floor_2.tsx"/>
+ <layer id="1" name="floor_1" width="30" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACu2WwRKDMAhE44ga//+HOz1khtnuAmmtvfSwk0qQJwkhXVtrq9Nyk1aQ3aA/93UfjNi6i9HhefjsTpX9PUEmbMo+fn+Lizacu5Kr9ov5j7kqN9pfc2Nvem8HD+2KuwsZGZHp80NfIzEZN4rhuaqmK2x2dtGXjcjswXv4HbtgVtYYmZ34RfE8F302yG0jI5Py8eyMuxF+xESuAbear+LO5MvqvcqN1lz54TOrZ8ZV9YVnR9Uz1jDLN2MrLusdbF0zLutr2AMrbHUvjFjRvY+cYWO9Cvt0dB8Z4T7tB7AOIszbf+cnXB+fcSP2FdwZ9pJwvV+Va4J1FLhsPrv3szqunqfZ/xtMiput8x3cTO9wr9CvuA+nUPloEA4AAA==
+  </data>
+ </layer>
+</map>
